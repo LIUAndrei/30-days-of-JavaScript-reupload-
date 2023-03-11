@@ -1,6 +1,11 @@
-﻿All the projects in this repo are made by the owner of the account without looking for hints or without any guidence by Wes Bos. I upload them one daily and if you see me skip one - that means that I was not able to get it right without a hint.
+﻿# Below is explanation of the owner of this GH account
 
-All the text below is by Wes Bos himself.
+All the projects in this repo are made by the owner of the account without looking for hints or without any guidence by Wes Bos. I upload them one daily and if you see me skip one - that means that I was not able to get it right without a hint.
+
+'Referencehtml' file in each project is the final solution by Wes Bos. I do not consult that file unless completely stuck with the project. Rename it to 'index.html' to use if needed.
+
+# All the text below is by Wes Bos himself.
+
 ![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
